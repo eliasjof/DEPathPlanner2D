@@ -1,4 +1,5 @@
-# A Path Planner for Autonomous Mobile Robots based on Differential Evolution and Splines
+# An Autonomous Mobile Robot Path Planner using Splines and Differential Evolution
+
 
 
 ## Generate the .whl file (package)
