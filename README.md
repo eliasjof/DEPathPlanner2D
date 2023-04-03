@@ -2,12 +2,6 @@
 
 
 
-## Generate the .whl file (package)
-
-```bash
-python setup.py bdist_wheel
-``` 
-
 ## Install package
 
 Observation: Check the version of the package
