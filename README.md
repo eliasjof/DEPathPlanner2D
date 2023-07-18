@@ -1,15 +1,20 @@
 # An Autonomous Mobile Robot Path Planner using Splines and Differential Evolution
 
+## Install
 
-## Install package
+```bash
+pip install -r "requirements.txt"
+```
+
+### Install package
 
 (Check the version of the package in the dist folder)
 
-### Windows
+#### Windows
 ```bash
 pip install .\dist\depathplanners-0.0.1-py3-none-any.whl 
 ```
-### Linux
+#### Linux
 ```bash
 pip install "./dist/de2Dplanners-1.0-py3-none-any.whl" 
 ```
