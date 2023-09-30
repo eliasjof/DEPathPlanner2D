@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "de Rezende Freitas"
+  given-names: "Elias José"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "2D Path planner algorithm based on Splines and Differential Evolution"
+version: v1.0
+doi: 10.5281/zenodo.8393908
+date-released: 2023-01-01
+url: "https://github.com/eliasjof/DEPathPlanner2D"
