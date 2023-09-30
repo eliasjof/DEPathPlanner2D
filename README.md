@@ -1,5 +1,5 @@
 # An Autonomous Mobile Robot Path Planner using Splines and Differential Evolution
-
+[![DOI](https://zenodo.org/badge/447218821.svg)](https://zenodo.org/badge/latestdoi/447218821)
 ## Install
 
 ```bash
